@@ -18,3 +18,5 @@ In this project, I went with ES `fetch` method over other alternatives like `XML
    - `fetch` Supports common CRUD operations like creating, reading, updating, and deleting posts.
 
 Overall, it's a solid choice for handling server requests without adding unnecessary complexity.
+
+You can view the project [here](https://wvargas24.github.io/CRUD-JavaScript-ES/).
